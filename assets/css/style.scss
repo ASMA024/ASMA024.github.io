@@ -1,0 +1,19 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Typography */
+body { font-family: -apple-system, "Segoe UI", Roboto, sans-serif; line-height: 1.6; }
+h1 { font-size: 2.6rem; color: #0b3d91; margin-bottom: 0.2rem; }
+h2 { color: #0b3d91; border-bottom: 2px solid #e6eefc; padding-bottom: 0.3rem; margin-top: 2.2rem; }
+h3 { margin-bottom: 0.2rem; }
+
+/* Links */
+a { color: #0b6e4f; text-decoration: none; font-weight: 600; }
+a:hover { text-decoration: underline; }
+
+/* Divider lines */
+hr { border: 0; border-top: 1px solid #ddd; margin: 2rem 0; }
+
+/* Headshot (see step 2) */
+img { width: 140px; height: 140px; object-fit: cover; border-radius: 50%; display: block; margin-bottom: 1rem; }
