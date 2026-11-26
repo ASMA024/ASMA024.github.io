@@ -2,7 +2,7 @@
 layout: default
 title: Asma Sardar
 ---
-
+![Asma Sardar](/Photo.jpeg)
 # Asma Sardar
 
 **Data analyst** with a background in audit and compliance. I work with SQL, Python, and statistics to turn messy business data into clear recommendations.
