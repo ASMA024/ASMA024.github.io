@@ -29,7 +29,7 @@ I come to analytics from audit. Years of checking records taught me to question 
 Ratio analysis of profitability, returns, and liquidity.
 
 **Customer lifetime value and segmentation**
-A regression model to predict customer value and segment customers for marketing.
+A regression model to predict customer value and segment customers for marketing. Link: https://github.com/ASMA024/customer-lifetime-value
 
 **Review sentiment and topic discovery**
 Sentiment scoring and topic modelling on customer reviews.
